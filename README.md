@@ -42,7 +42,7 @@ The choice of a larger monitor than the previous one was influenced by the need 
 
 Two possible solutions were evaluated: 
 
-- Central nutton
+- Central button
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/899c5294-7590-4f69-9f8d-42d511334a88)
 
 - Side button
@@ -66,11 +66,12 @@ Thanks to SolidWorks we simulate the regulation of monitor stand
 
 ### Ergonomics OWAS and Dreyfuss 3D
 
-Visibility
+- Visibility
+   
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/5be8a3db-d39e-465f-932b-503b16a6423f)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/69abb17b-6a2f-4ea0-99f8-f3693f040fb8)
 
-Reachbility & hand studies
+- Reachbility & hand studies
 
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/32a86124-2063-4a7f-afe2-b9fc68b59131)
 
@@ -94,6 +95,7 @@ Reachbility & hand studies
 Thanks to the help of [Adobe XD](https://helpx.adobe.com/it/xd/get-started.html) we simulate the interface defining a first preview and then the definitve interface.
 
 - Preview
+  
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/8e2d9675-d4ae-4237-b43c-2028ec4a7b21)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/42463680-df55-4316-8d51-8f5df2d4c257)
 
@@ -124,8 +126,8 @@ Grouping, controllability, positioning and adaptability are guaranteed by the de
 ### Graphic style
 
 Flat design palette, Pragmatica font, rounded design
-![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0ee08686-a005-4f09-88ed-2bf4d7d614bc)
 
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0ee08686-a005-4f09-88ed-2bf4d7d614bc)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/279f457a-645e-4aac-a392-a0c704f4da3f)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1f51cade-ea62-4d85-86d2-f63ac8a5fbf9)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/b08bf8bc-a7cc-4331-a369-3ac430f22d44)
@@ -141,12 +143,14 @@ Creation of a virtual assistant inspired by [Amazon Alexa](https://alexa.amazon.
 ## Usability tests
 
 - Tasks list
+  
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/59d157d7-83f6-4ba4-9749-82c7d311c68d)
 
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/6809efbc-1758-4882-8c02-70a647c3645a)
 
 - Results
-  ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/3f271a24-45b4-4028-8fee-898b3fae1f2b)
+  
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/3f271a24-45b4-4028-8fee-898b3fae1f2b)
 
 
 
