@@ -1,5 +1,6 @@
 # Design an UX for farm tractor
 
+The project was a tema project proposed by [Xilab](https://www.xilab.unimore.it/) in collaboration with [New Holland Agriculture](https://agriculture.newholland.com/it-it/europe)
 This team project aims to simulate and design an interface for agricultural machinery
 
 ## Context studies
@@ -80,6 +81,73 @@ Reachbility & hand studies
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1432b843-ecbf-4b3a-b87a-d46c9c32a4e7)
 
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/6f4598b3-5e3d-446f-904b-a4d7581d42e6)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/bf8c7ba7-62e4-4321-8541-ae59963ed758)
+
+## Wireframe
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1478c822-09da-4373-b4c4-4458ffc707c2)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/e4b967aa-7ba3-4402-9573-72ded848058a)
+
+## Interactive prototype
+
+Thanks to the help of [Adobe XD](https://helpx.adobe.com/it/xd/get-started.html) we simulate the interface defining a first preview and then the definitve interface.
+
+- Preview
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/8e2d9675-d4ae-4237-b43c-2028ec4a7b21)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/42463680-df55-4316-8d51-8f5df2d4c257)
+
+- Definitive solution
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/45514624-86ce-4dc4-92fa-724dbd11f155)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/5a6fb9cb-27e4-4712-b8c4-f8abedd52392)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/e64aa91f-3384-425a-8379-433f46f21535)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/059c22ec-c74b-4eae-96e4-f083370ccbe0)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/3a84670a-cad6-4e8d-a137-8fb7a9fc3cd1)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/c9c18a1f-3a2c-47bb-883a-33496debefdb)
+
+
+### Color palette modification inspired by [flat design](https://en.wikipedia.org/wiki/Flat_design)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/a3e3b251-6a8d-48cf-a5f8-4ec5ea4eabb7)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/b8e96fb8-aa58-4598-a0bb-e9b8a6911d02)
+
+### Cognitive ergonomics and [GESTALT](https://en.wikipedia.org/wiki/Gestalt_psychology)
+
+Grouping, controllability, positioning and adaptability are guaranteed by the design of the interface
+
+### Graphic style
+
+Flat design palette, Pragmatica font, rounded design
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0ee08686-a005-4f09-88ed-2bf4d7d614bc)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/279f457a-645e-4aac-a392-a0c704f4da3f)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1f51cade-ea62-4d85-86d2-f63ac8a5fbf9)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/b08bf8bc-a7cc-4331-a369-3ac430f22d44)
+
+### Multinteraction and accessibility
+
+Creation of a virtual assistant inspired by [Amazon Alexa](https://alexa.amazon.it/)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/714c642a-ebde-4cfd-a879-c81107f753f3)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/f9450f84-04c7-44c5-8ad0-7ca637bbf0dd)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0a5bf132-7766-4fef-b5b4-9c273d96b22a)
+
+## Usability tests
+
+- Tasks list
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/59d157d7-83f6-4ba4-9749-82c7d311c68d)
+
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/6809efbc-1758-4882-8c02-70a647c3645a)
+
+- Results
+  ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/3f271a24-45b4-4028-8fee-898b3fae1f2b)
+
 
 
 
