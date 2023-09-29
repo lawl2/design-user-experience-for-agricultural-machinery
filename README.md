@@ -129,8 +129,8 @@ Flat design palette, Pragmatica font, rounded design
 
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0ee08686-a005-4f09-88ed-2bf4d7d614bc)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/279f457a-645e-4aac-a392-a0c704f4da3f)
-![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1f51cade-ea62-4d85-86d2-f63ac8a5fbf9)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/b08bf8bc-a7cc-4331-a369-3ac430f22d44)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/1f51cade-ea62-4d85-86d2-f63ac8a5fbf9)
 
 ### Multinteraction and accessibility
 
