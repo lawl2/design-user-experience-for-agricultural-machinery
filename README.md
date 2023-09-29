@@ -137,8 +137,9 @@ Flat design palette, Pragmatica font, rounded design
 Creation of a virtual assistant inspired by [Amazon Alexa](https://alexa.amazon.it/)
 
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/714c642a-ebde-4cfd-a879-c81107f753f3)
-![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/f9450f84-04c7-44c5-8ad0-7ca637bbf0dd)
 ![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/0a5bf132-7766-4fef-b5b4-9c273d96b22a)
+![image](https://github.com/lawl2/design-user-experience-for-agricultural-machinery/assets/105045290/f9450f84-04c7-44c5-8ad0-7ca637bbf0dd)
+
 
 ## Usability tests
 
